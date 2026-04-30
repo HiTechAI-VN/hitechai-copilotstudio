@@ -4,7 +4,7 @@
   "description": "This extension enables developers to edit their Copilot Studio agents from within Visual Studio Code. Clone an agent, get changes, preview differences, and apply updates directly back to their environments.",
   "version": "1.0.1",
   "publisher": "ms-CopilotStudio",
-  "author": "Microsoft Corporation",
+  "author": "Pho Tue SoftWare Solutions JSC",
   "license": "MIT",
   "galleryBanner": {
     "color": "#0072c6",

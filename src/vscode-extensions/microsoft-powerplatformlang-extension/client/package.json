@@ -2,7 +2,7 @@
 	"name": "vscode-powerplatformlang-extension-client",
 	"description": "Extension Client for PowerPlatform Languages",
 	"version": "0.0.1",
-	"author": "Microsoft Corporation",
+	"author": "Pho Tue SoftWare Solutions JSC",
 	"license": "MIT",
 	"engines": {
 		"node": "*"

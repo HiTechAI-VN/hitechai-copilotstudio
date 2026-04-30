@@ -1,4 +1,4 @@
-// Copyright (C) Microsoft Corporation. All rights reserved.
+// Copyright (C) Pho Tue SoftWare Solutions JSC. All rights reserved.
 
 using Microsoft.Agents.Platform.Content.Abstractions;
 using Microsoft.CopilotStudio.Sync;

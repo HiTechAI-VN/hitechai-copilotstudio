@@ -1,4 +1,4 @@
-// Copyright (C) Microsoft Corporation. All rights reserved.
+// Copyright (C) Pho Tue SoftWare Solutions JSC. All rights reserved.
 // Ported from pac/src/cli/bolt.module.copilot/sync/IslandControlPlaneService.cs
 // Auth change: IAuthenticatedClientFactory + AuthProfile → ISyncAuthProvider
 

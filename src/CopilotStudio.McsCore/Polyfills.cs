@@ -1,4 +1,4 @@
-// Copyright (C) Microsoft Corporation. All rights reserved.
+// Copyright (C) Pho Tue SoftWare Solutions JSC. All rights reserved.
 //
 // Polyfills for string APIs added after netstandard2.0. Same-namespace
 // internal extension methods take precedence over the BCL's internal

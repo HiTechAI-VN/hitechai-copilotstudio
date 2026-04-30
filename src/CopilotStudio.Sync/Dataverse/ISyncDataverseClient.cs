@@ -1,4 +1,4 @@
-// Copyright (C) Microsoft Corporation. All rights reserved.
+// Copyright (C) Pho Tue SoftWare Solutions JSC. All rights reserved.
 // Renamed from IDataverseClient to ISyncDataverseClient to avoid collision with Platform's IDataverseClient.
 // Ported from om/src/vscode/LanguageServers/PowerPlatformLS/Impl.PullAgent/Dataverse/IDataverseClient.cs
 

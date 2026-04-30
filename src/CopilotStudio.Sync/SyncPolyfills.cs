@@ -1,4 +1,4 @@
-// Copyright (C) Microsoft Corporation. All rights reserved.
+// Copyright (C) Pho Tue SoftWare Solutions JSC. All rights reserved.
 //
 // Sync-local polyfills for APIs added after netstandard2.0. McsCore polyfills
 // for string extensions and ToHashSet are also visible here via InternalsVisibleTo.

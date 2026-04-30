@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------
-// Copyright (c) Microsoft Corporation.  All rights reserved.
+// Copyright (c) Pho Tue SoftWare Solutions JSC.  All rights reserved.
 //-----------------------------------------------------------------------------
 
 using System.Runtime.CompilerServices;

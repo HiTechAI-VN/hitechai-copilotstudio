@@ -1,4 +1,4 @@
-// Copyright (C) Microsoft Corporation. All rights reserved.
+// Copyright (C) Pho Tue SoftWare Solutions JSC. All rights reserved.
 //
 // Polyfills for System.Diagnostics.CodeAnalysis nullability annotations that
 // are public on net5+ but internal in netstandard2.0's BCL. Same-namespace

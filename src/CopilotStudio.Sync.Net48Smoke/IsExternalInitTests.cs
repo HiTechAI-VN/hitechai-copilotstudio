@@ -1,4 +1,4 @@
-// Copyright (C) Microsoft Corporation. All rights reserved.
+// Copyright (C) Pho Tue SoftWare Solutions JSC. All rights reserved.
 //
 // Smoke tests targeting net48 to validate that the netstandard2.0 build of
 // Microsoft.CopilotStudio.Sync is consumable from a net48 host.

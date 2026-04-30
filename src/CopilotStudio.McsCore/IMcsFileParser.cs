@@ -1,4 +1,4 @@
-// Copyright (C) Microsoft Corporation. All rights reserved.
+// Copyright (C) Pho Tue SoftWare Solutions JSC. All rights reserved.
 // Simplified interface from om/src/vscode/LanguageServers/PowerPlatformLS/Contracts.FileLayout/IMcsFileParser.cs
 // Drops CompileFile(LspDocument<BotElement>) which requires LS-specific types.
 
