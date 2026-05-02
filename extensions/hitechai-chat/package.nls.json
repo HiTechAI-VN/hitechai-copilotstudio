@@ -1,0 +1,12 @@
+{
+	"displayName": "HiTechAi Chat",
+	"description": "Built-in chat participant for HiTechAi Studio Code.",
+	"chatParticipant.description": "Ask HiTechAi Chat for help with coding, workspace questions, and development tasks.",
+	"chatParticipant.sampleRequest": "Explain the current workspace",
+	"command.showOutputChannel.title": "Show Output Channel",
+	"command.openWalkthrough.title": "Open Walkthrough",
+	"command.openCompletionsMenu.title": "Open Completions Menu",
+	"command.refreshToken.title": "Refresh Token",
+	"command.generateCommitMessage.title": "Generate Commit Message",
+	"command.resolveMergeConflicts.title": "Resolve Merge Conflicts"
+}

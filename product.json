@@ -1,0 +1,182 @@
+{
+	"nameShort": "HiTechAi Studio Code",
+	"nameLong": "HiTechAi Studio Code",
+	"applicationName": "hitechai-studio-code",
+	"dataFolderName": ".hitechai-studio-code",
+	"sharedDataFolderName": ".hitechai-studio-code-shared",
+	"win32MutexName": "hitechaistudiocode",
+	"licenseName": "MIT",
+	"licenseUrl": "https://github.com/HiTechAi-VN/vscode/blob/main/LICENSE.txt",
+	"serverLicenseUrl": "https://github.com/HiTechAi-VN/vscode/blob/main/LICENSE.txt",
+	"serverGreeting": [],
+	"serverLicense": [],
+	"serverLicensePrompt": "",
+	"serverApplicationName": "hitechai-studio-code-server",
+	"serverDataFolderName": ".hitechai-studio-code-server",
+	"tunnelApplicationName": "hitechai-studio-code-tunnel",
+	"win32DirName": "HiTechAi Studio Code",
+	"win32NameVersion": "HiTechAi Studio Code",
+	"win32RegValueName": "HiTechAi Studio Code",
+	"win32x64AppId": "{{D77B7E06-80BA-4137-BCF4-654B95CCEBC5}",
+	"win32arm64AppId": "{{D1ACE434-89C5-48D1-88D3-E2991DF85475}",
+	"win32x64UserAppId": "{{CC6B787D-37A0-49E8-AE24-8559A032BE0C}",
+	"win32arm64UserAppId": "{{3AEBF0C8-F733-4AD4-BADE-FDB816D53D7B}",
+	"win32AppUserModelId": "HiTechAi.Studio.Code",
+	"win32ShellNameShort": "HiTechAi Studio Code",
+	"win32TunnelServiceMutex": "hitechai-studio-code-tunnelservice",
+	"win32TunnelMutex": "hitechai-studio-code-tunnel",
+	"darwinBundleIdentifier": "com.hitechai.studio.code",
+	"darwinProfileUUID": "47827DD9-4734-49A0-AF80-7E19B11495CC",
+	"darwinProfilePayloadUUID": "CF808BE7-53F3-46C6-A7E2-7EDB98A5E959",
+	"linuxIconName": "hitechai-studio-code",
+	"licenseFileName": "LICENSE.txt",
+	"reportIssueUrl": "https://github.com/HiTechAi-VN/vscode/issues/new",
+	"nodejsRepository": "https://nodejs.org",
+	"urlProtocol": "hitechai-studio-code",
+	"webviewContentExternalBaseUrlTemplate": "https://{{uuid}}.vscode-cdn.net/insider/ef65ac1ba57f57f2a3961bfe94aa20481caca4c6/out/vs/workbench/contrib/webview/browser/pre/",
+	"builtInExtensions": [],
+	"onboardingKeymaps": [
+		{
+			"id": "vscode",
+			"label": "HiTechAi Studio Code",
+			"description": "Default keyboard mapping"
+		},
+		{
+			"id": "sublime",
+			"label": "Sublime Text",
+			"extensionId": "ms-vscode.sublime-keybindings",
+			"description": "Keyboard mapping from Sublime Text"
+		},
+		{
+			"id": "intellij",
+			"label": "IntelliJ / JetBrains",
+			"extensionId": "k--kato.intellij-idea-keybindings",
+			"description": "Keyboard mapping from IntelliJ IDEA"
+		},
+		{
+			"id": "vim",
+			"label": "Vim",
+			"extensionId": "vscodevim.vim",
+			"description": "Vim modal editing"
+		},
+		{
+			"id": "eclipse",
+			"label": "Eclipse",
+			"extensionId": "alphabotsec.vscode-eclipse-keybindings",
+			"description": "Keyboard mapping from Eclipse"
+		},
+		{
+			"id": "notepadpp",
+			"label": "Notepad++",
+			"extensionId": "ms-vscode.notepadplusplus-keybindings",
+			"description": "Keyboard mapping from Notepad++"
+		}
+	],
+	"defaultChatAgent": {
+		"extensionId": "hitechai.hitechai-chat",
+		"chatExtensionId": "hitechai.hitechai-chat",
+		"chatExtensionOutputId": "HiTechAi Chat",
+		"chatExtensionOutputExtensionStateCommand": "hitechai.chat.showOutputChannel",
+		"documentationUrl": "https://github.com/HiTechAi-VN/vscode/blob/main/README.md",
+		"skusDocumentationUrl": "https://github.com/HiTechAi-VN/vscode/blob/main/README.md",
+		"publicCodeMatchesUrl": "https://github.com/HiTechAi-VN/vscode/blob/main/README.md",
+		"manageSettingsUrl": "https://github.com/HiTechAi-VN/vscode",
+		"managePlanUrl": "https://github.com/HiTechAi-VN/vscode",
+		"manageOverageUrl": "https://github.com/HiTechAi-VN/vscode",
+		"upgradePlanUrl": "https://github.com/HiTechAi-VN/vscode",
+		"signUpUrl": "https://github.com/HiTechAi-VN/vscode",
+		"termsStatementUrl": "https://github.com/HiTechAi-VN/vscode/blob/main/LICENSE.txt",
+		"privacyStatementUrl": "https://github.com/HiTechAi-VN/vscode",
+		"provider": {
+			"default": {
+				"id": "hitechai",
+				"name": "HiTechAi"
+			},
+			"enterprise": {
+				"id": "hitechai-enterprise",
+				"name": "HiTechAi Enterprise"
+			},
+			"google": {
+				"id": "hitechai-google",
+				"name": "HiTechAi"
+			},
+			"apple": {
+				"id": "hitechai-apple",
+				"name": "HiTechAi"
+			}
+		},
+		"providerExtensionId": "",
+		"providerUriSetting": "hitechai.chat.provider.uri",
+		"providerScopes": [
+			[
+				"hitechai"
+			]
+		],
+		"entitlementUrl": "",
+		"entitlementSignupLimitedUrl": "",
+		"tokenEntitlementUrl": "",
+		"mcpRegistryDataUrl": "",
+		"chatQuotaExceededContext": "hitechai.chat.quotaExceeded",
+		"completionsQuotaExceededContext": "hitechai.chat.completions.quotaExceeded",
+		"walkthroughCommand": "hitechai.chat.openWalkthrough",
+		"completionsMenuCommand": "hitechai.chat.openCompletionsMenu",
+		"chatRefreshTokenCommand": "hitechai.chat.refreshToken",
+		"generateCommitMessageCommand": "hitechai.chat.generateCommitMessage",
+		"resolveMergeConflictsCommand": "hitechai.chat.resolveMergeConflicts",
+		"completionsAdvancedSetting": "hitechai.chat.advanced",
+		"completionsEnablementSetting": "hitechai.chat.enable",
+		"nextEditSuggestionsSetting": "hitechai.chat.nextEditSuggestions.enabled"
+	},
+	"extensionsEnabledWithApiProposalVersion": [
+		"hitechai.hitechai-chat"
+	],
+	"extensionEnabledApiProposals": {
+		"hitechai.hitechai-chat": [
+			"defaultChatParticipant"
+		]
+	},
+	"trustedExtensionAuthAccess": {},
+	"onboardingThemes": [
+		{
+			"id": "dark-2026",
+			"label": "Dark 2026",
+			"themeId": "Dark 2026",
+			"type": "dark"
+		},
+		{
+			"id": "hc-dark",
+			"label": "Dark High Contrast",
+			"themeId": "Default High Contrast",
+			"type": "hcDark"
+		},
+		{
+			"id": "solarized-dark",
+			"label": "Solarized Dark",
+			"themeId": "Solarized Dark",
+			"type": "dark"
+		},
+		{
+			"id": "light-2026",
+			"label": "Light 2026",
+			"themeId": "Light 2026",
+			"type": "light"
+		},
+		{
+			"id": "hc-light",
+			"label": "Light High Contrast",
+			"themeId": "Default High Contrast Light",
+			"type": "hcLight"
+		},
+		{
+			"id": "solarized-light",
+			"label": "Solarized Light",
+			"themeId": "Solarized Light",
+			"type": "light"
+		}
+	],
+	"builtInExtensionsEnabledWithAutoUpdates": [],
+	"extensionsGallery": {
+		"serviceUrl": "https://open-vsx.org/vscode/gallery",
+		"itemUrl": "https://open-vsx.org/vscode/item"
+	}
+}

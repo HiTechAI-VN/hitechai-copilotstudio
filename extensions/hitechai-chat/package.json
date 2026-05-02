@@ -1,0 +1,76 @@
+{
+	"name": "hitechai-chat",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"publisher": "hitechai",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.77.0"
+	},
+	"enabledApiProposals": [
+		"defaultChatParticipant@4"
+	],
+	"activationEvents": [
+		"onChatParticipant:hitechai.chat"
+	],
+	"main": "./out/extension",
+	"capabilities": {
+		"virtualWorkspaces": true,
+		"untrustedWorkspaces": {
+			"supported": true
+		}
+	},
+	"categories": [
+		"AI"
+	],
+	"contributes": {
+		"chatParticipants": [
+			{
+				"id": "hitechai.chat",
+				"name": "hitechai",
+				"fullName": "HiTechAi Chat",
+				"description": "%chatParticipant.description%",
+				"isDefault": true,
+				"modes": [
+					"ask",
+					"edit",
+					"agent"
+				],
+				"sampleRequest": "%chatParticipant.sampleRequest%"
+			}
+		],
+		"commands": [
+			{
+				"command": "hitechai.chat.showOutputChannel",
+				"title": "%command.showOutputChannel.title%",
+				"category": "HiTechAi Chat"
+			},
+			{
+				"command": "hitechai.chat.openWalkthrough",
+				"title": "%command.openWalkthrough.title%",
+				"category": "HiTechAi Chat"
+			},
+			{
+				"command": "hitechai.chat.openCompletionsMenu",
+				"title": "%command.openCompletionsMenu.title%",
+				"category": "HiTechAi Chat"
+			},
+			{
+				"command": "hitechai.chat.refreshToken",
+				"title": "%command.refreshToken.title%",
+				"category": "HiTechAi Chat"
+			},
+			{
+				"command": "hitechai.chat.generateCommitMessage",
+				"title": "%command.generateCommitMessage.title%",
+				"category": "HiTechAi Chat"
+			},
+			{
+				"command": "hitechai.chat.resolveMergeConflicts",
+				"title": "%command.resolveMergeConflicts.title%",
+				"category": "HiTechAi Chat"
+			}
+		]
+	}
+}

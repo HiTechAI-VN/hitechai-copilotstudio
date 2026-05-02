@@ -1,0 +1,12 @@
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Pho Tue SoftWare Solutions JSC. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+/* ---- Changes titlebar action spacing ---- */
+
+/* Remove leftover spacing between local-session actions (Run, HiTechAi Studio Code) and fixed toggles (Terminal, Changes).
+ * Targets the action following the HiTechAi Studio Code icon (any Codicon.vscode variant). */
+.agent-sessions-workbench .titlebar-session-actions-container .monaco-action-bar .actions-container > .action-item:has(.codicon[class*="codicon-vscode"]) + .action-item {
+	margin-left: 0;
+}
